@@ -1,0 +1,8 @@
+venv
+venv2
+results/*
+transactions/*
+__pycache__
+
+!results/.gitkeep
+!transactions/.gitkeep
